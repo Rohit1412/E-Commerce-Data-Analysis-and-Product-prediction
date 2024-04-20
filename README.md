@@ -40,7 +40,7 @@ Contributions to the E-Commerce Sentiment Analysis Project are welcome! If you h
 - Gratitude for the open-source Python libraries that facilitated this analysis.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/Rohit1412/E-Commerce-Data-Analysis-and-Product-prediction/blob/main/LICENSE)) file for details.
 
 
 # Requirements
